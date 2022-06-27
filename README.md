@@ -9,6 +9,7 @@
 <br>
 
 <img src="https://github.com/ClickedTran/KillDeathSound/blob/main/newicon.gif">
+<br>
 ✔️ When the player is killed and dies, the sound will work ✔️
 <br>
 <img src="https://github.com/NoobMCBG/KillDeathSound/blob/main/icon.png"/>
