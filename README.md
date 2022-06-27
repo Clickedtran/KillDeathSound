@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="https://github.com/NoobMCBG/KillDeathSound/blob/main/icon.gif">
+<img src="https://github.com/NoobMCBG/KillDeathSound/blob/main/newicon.gif">
 ✔️ When the player is killed and dies, the sound will work ✔️
 <br>
 <img src="https://github.com/NoobMCBG/KillDeathSound/blob/main/icon.png"/>
@@ -30,7 +30,7 @@
   <br>
   
 
-<img src="https://github.com/NoobMCBG/KillDeathSound/blob/main/icon.gif">
+<img src="https://github.com/NoobMCBG/KillDeathSound/blob/main/newicon.gif">
 </p>
 
 ## Update
